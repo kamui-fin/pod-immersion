@@ -1,0 +1,14 @@
+[package]
+name = "pod-immersion"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+clap = "3.2.21"
+dirs-next = "2.0.0"
+opml = "1.1.4"
+ureq = "2.5.0"
+anyhow = "1.0.65"
+rss = "2.0.1"
